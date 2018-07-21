@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1510861289 source:c:\users\ultimate 7\desktop\tarea programada 4\main.cpp
+	<iostream>
+	"Archivo.h"
+
+1510855414 c:\users\ultimate 7\desktop\tarea programada 4\include\archivo.h
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sstream>
+
+1510861289 source:c:\users\ultimate 7\desktop\tarea programada 4\src\archivo.cpp
+	"Archivo.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sstream>
+	<string>
+	<cmath>
+	<cstring>
+
+1510861290 source:c:\users\javier.vasquez\desktop\tarea programada 4-dilian\main.cpp
+	<iostream>
+	"Archivo.h"
+
+1510863752 c:\users\javier.vasquez\desktop\tarea programada 4-dilian\include\archivo.h
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sstream>
+
+1510872447 source:c:\users\javier.vasquez\desktop\tarea programada 4-dilian\src\archivo.cpp
+	"Archivo.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sstream>
+	<string>
+	<cmath>
+	<cstring>
+
+1511054190 source:c:\users\ultimate 7\desktop\tarea programada 4-dilian\main.cpp
+	<iostream>
+	"Archivo.h"
+
+1511056002 c:\users\ultimate 7\desktop\tarea programada 4-dilian\include\archivo.h
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sstream>
+
+1511394281 source:c:\users\ultimate 7\desktop\tarea programada 4-dilian\src\archivo.cpp
+	"Archivo.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sstream>
+	<string>
+	<cmath>
+	<cstring>
+	<iomanip>
+
+1511054190 source:c:\users\ultimate 7\desktop\tp4\main.cpp
+	<iostream>
+	"Archivo.h"
+
+1511056002 c:\users\ultimate 7\desktop\tp4\include\archivo.h
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sstream>
+
+1511583270 source:c:\users\ultimate 7\desktop\tp4\src\archivo.cpp
+	"Archivo.h"
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sstream>
+	<string>
+	<cmath>
+	<cstring>
+	<iomanip>
+

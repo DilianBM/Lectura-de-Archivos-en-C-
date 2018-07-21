@@ -1,0 +1,78 @@
+227 distintos valores para esta columna Country
+
+
+11 distintos valores para esta columna Region
+
+
+Population Promedio: 28740284.37 Valor Mayor: 1313973713 Valor Menor: 7026
+Desviacion Estandar:117631367.4
+
+
+Area (sq.mi.) Promedio: 598226.9559 Valor Mayor: 17075200 Valor Menor: 2
+Desviacion Estandar:1786334.538
+
+
+Pop. Density(per sq. mi.) Promedio: 379.0471366 Valor Mayor: 16271.5 Valor Menor: 0
+Desviacion Estandar:1656.524991
+
+
+Coastline(coast/area ratio) Promedio: 21.1653304 Valor Mayor: 870.66 Valor Menor: 0
+Desviacion Estandar:72.12746524
+
+
+Net migration Promedio: 0.038125 Valor Mayor: 23.06 Valor Menor: -20.99
+Desviacion Estandar:4.878343456
+
+
+Infant mortality (per 1000 births) Promedio: 35.50696429 Valor Mayor: 191.19 Valor Menor: 2.29
+Desviacion Estandar:35.3108151
+
+
+GDP($ per capita) Promedio: 9689.823009 Valor Mayor: 55100 Valor Menor: 500
+Desviacion Estandar:10026.88126
+
+
+Literacy(%) Promedio: 82.83827751 Valor Mayor: 100 Valor Menor: 17.6
+Desviacion Estandar:19.67493412
+
+
+Phones per 1000 Promedio: 236.061435 Valor Mayor: 1035.6 Valor Menor: 0.2
+Desviacion Estandar:227.4800618
+
+
+Arable % Promedio: 13.79711111 Valor Mayor: 62.11 Valor Menor: 0
+Desviacion Estandar:13.01139118
+
+
+Crops % Promedio: 4.564222222 Valor Mayor: 50.68 Valor Menor: 0
+Desviacion Estandar:8.342868009
+
+
+Other % Promedio: 81.63831111 Valor Mayor: 100 Valor Menor: 33.33
+Desviacion Estandar:16.10492631
+
+
+Climate Promedio: 2.13902439 Valor Mayor: 4 Valor Menor: 1
+Desviacion Estandar:0.6976888847
+
+
+Birthrate Promedio: 22.11473214 Valor Mayor: 50.73 Valor Menor: 7.29
+Desviacion Estandar:11.15173977
+
+
+Deathrate Promedio: 9.241345291 Valor Mayor: 29.74 Valor Menor: 2.29
+Desviacion Estandar:4.978825206
+
+
+Agriculture Promedio: 0.1508443396 Valor Mayor: 0.769 Valor Menor: 0
+Desviacion Estandar:0.1464513227
+
+
+Industry Promedio: 0.2827109005 Valor Mayor: 0.906 Valor Menor: 0.02
+Desviacion Estandar:0.1379441704
+
+
+Service Promedio: 0.5652830189 Valor Mayor: 0.954 Valor Menor: 0.062
+Desviacion Estandar:0.1654494026
+
+
